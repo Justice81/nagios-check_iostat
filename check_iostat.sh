@@ -50,8 +50,6 @@
 # Changes:
 # - Fixed performance data for Centreon
 #
-#
-
 
 iostat=`which iostat 2>/dev/null`
 bc=`which bc 2>/dev/null`
